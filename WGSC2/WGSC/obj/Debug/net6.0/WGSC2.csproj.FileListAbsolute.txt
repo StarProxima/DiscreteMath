@@ -1,0 +1,15 @@
+C:\GitHub\DiscreteMathProxima\WGSC2\WGSC\bin\Debug\net6.0\WGSC2.exe
+C:\GitHub\DiscreteMathProxima\WGSC2\WGSC\bin\Debug\net6.0\WGSC2.deps.json
+C:\GitHub\DiscreteMathProxima\WGSC2\WGSC\bin\Debug\net6.0\WGSC2.runtimeconfig.json
+C:\GitHub\DiscreteMathProxima\WGSC2\WGSC\bin\Debug\net6.0\WGSC2.dll
+C:\GitHub\DiscreteMathProxima\WGSC2\WGSC\bin\Debug\net6.0\ref\WGSC2.dll
+C:\GitHub\DiscreteMathProxima\WGSC2\WGSC\bin\Debug\net6.0\WGSC2.pdb
+C:\GitHub\DiscreteMathProxima\WGSC2\WGSC\obj\Debug\net6.0\WGSC2.csproj.AssemblyReference.cache
+C:\GitHub\DiscreteMathProxima\WGSC2\WGSC\obj\Debug\net6.0\WGSC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DiscreteMathProxima\WGSC2\WGSC\obj\Debug\net6.0\WGSC2.AssemblyInfoInputs.cache
+C:\GitHub\DiscreteMathProxima\WGSC2\WGSC\obj\Debug\net6.0\WGSC2.AssemblyInfo.cs
+C:\GitHub\DiscreteMathProxima\WGSC2\WGSC\obj\Debug\net6.0\WGSC2.csproj.CoreCompileInputs.cache
+C:\GitHub\DiscreteMathProxima\WGSC2\WGSC\obj\Debug\net6.0\WGSC2.dll
+C:\GitHub\DiscreteMathProxima\WGSC2\WGSC\obj\Debug\net6.0\ref\WGSC2.dll
+C:\GitHub\DiscreteMathProxima\WGSC2\WGSC\obj\Debug\net6.0\WGSC2.pdb
+C:\GitHub\DiscreteMathProxima\WGSC2\WGSC\obj\Debug\net6.0\WGSC2.genruntimeconfig.cache
