@@ -1,0 +1,15 @@
+C:\Users\maksp\source\repos\WGSC4\WGSC4\bin\Debug\net6.0\WGSC4.exe
+C:\Users\maksp\source\repos\WGSC4\WGSC4\bin\Debug\net6.0\WGSC4.deps.json
+C:\Users\maksp\source\repos\WGSC4\WGSC4\bin\Debug\net6.0\WGSC4.runtimeconfig.json
+C:\Users\maksp\source\repos\WGSC4\WGSC4\bin\Debug\net6.0\WGSC4.dll
+C:\Users\maksp\source\repos\WGSC4\WGSC4\bin\Debug\net6.0\ref\WGSC4.dll
+C:\Users\maksp\source\repos\WGSC4\WGSC4\bin\Debug\net6.0\WGSC4.pdb
+C:\Users\maksp\source\repos\WGSC4\WGSC4\obj\Debug\net6.0\WGSC4.csproj.AssemblyReference.cache
+C:\Users\maksp\source\repos\WGSC4\WGSC4\obj\Debug\net6.0\WGSC4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksp\source\repos\WGSC4\WGSC4\obj\Debug\net6.0\WGSC4.AssemblyInfoInputs.cache
+C:\Users\maksp\source\repos\WGSC4\WGSC4\obj\Debug\net6.0\WGSC4.AssemblyInfo.cs
+C:\Users\maksp\source\repos\WGSC4\WGSC4\obj\Debug\net6.0\WGSC4.csproj.CoreCompileInputs.cache
+C:\Users\maksp\source\repos\WGSC4\WGSC4\obj\Debug\net6.0\WGSC4.dll
+C:\Users\maksp\source\repos\WGSC4\WGSC4\obj\Debug\net6.0\ref\WGSC4.dll
+C:\Users\maksp\source\repos\WGSC4\WGSC4\obj\Debug\net6.0\WGSC4.pdb
+C:\Users\maksp\source\repos\WGSC4\WGSC4\obj\Debug\net6.0\WGSC4.genruntimeconfig.cache
